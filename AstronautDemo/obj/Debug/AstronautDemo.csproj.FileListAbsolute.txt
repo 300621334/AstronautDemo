@@ -1,0 +1,12 @@
+H:\Comp-123 - C#\Projects\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.exe.config
+H:\Comp-123 - C#\Projects\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.exe
+H:\Comp-123 - C#\Projects\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.pdb
+H:\Comp-123 - C#\Projects\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.csprojResolveAssemblyReference.cache
+H:\Comp-123 - C#\Projects\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.exe
+H:\Comp-123 - C#\Projects\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.pdb
+C:\Users\a\Desktop\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.exe.config
+C:\Users\a\Desktop\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.exe
+C:\Users\a\Desktop\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.pdb
+C:\Users\a\Desktop\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.exe
+C:\Users\a\Desktop\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.pdb
+C:\Users\a\Desktop\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.csprojResolveAssemblyReference.cache
